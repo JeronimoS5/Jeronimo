@@ -1,6 +1,6 @@
 # 👋 Hola, Bienvenido a mi perfil
 
-Soy Jerónimo Sepulveda Catellanos**estudiante de Ingeniería de Sistemas y Telecomunicaciones**.  
+Soy Jerónimo Sepulveda Catellanos **estudiante de Ingeniería de Sistemas y Telecomunicaciones**.  
 Me gusta aprender sobre programación, redes y nuevas tecnologías.  
 Me considero una persona **responsable, curiosa y con ganas de seguir aprendiendo** cada día.  
 
